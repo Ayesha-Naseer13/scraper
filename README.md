@@ -50,7 +50,9 @@ Ensure you have the following installed:
 
 Got it! Here is the `README.md` in editor mode:
 
-```
+
+
+
 # NeurIPS Papers Scraper-PYTHON
 
 This project is a Python-based web scraper that extracts research papers from the NeurIPS Papers website ([https://papers.nips.cc](https://papers.nips.cc)). The scraper is designed to gather papers in PDF format by navigating through the annual archives of NeurIPS conference papers. It handles asynchronous requests, retries on failure, and ensures proper concurrency control.
