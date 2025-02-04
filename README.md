@@ -77,7 +77,6 @@ You can install the required packages using `pip`:
 
 ```bash
 pip install aiohttp aiofiles beautifulsoup4 requests
-```
 
 ## Setup
 
