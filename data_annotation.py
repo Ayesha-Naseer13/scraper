@@ -9,7 +9,7 @@ data_file = "D:/scraper/papers/metadata.csv"
 data_frame = pd.read_csv(data_file)
 
 # Configure Gemini API
-API_KEY = "AIzaSyBcShsp7fkAGOtC80FEPQ9VAgf2I25vNt8"
+API_KEY = "your gemini_api_key"
 genai.configure(api_key=API_KEY)
 llm_model = genai.GenerativeModel('gemini-pro')
 
